@@ -26,7 +26,6 @@ Locked in. Ready to build cool stuff.</strong>
 ##### **Editing & Creative**
 <p align="left">
 <img src="https://skillicons.dev/icons?i=figma,pr,ae,unity" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/affinitydesigner/affinitydesigner-original.svg" height="40" />
 </p>
 
 ---
