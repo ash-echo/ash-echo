@@ -1,8 +1,6 @@
                                               
-                                              
-▄▄   ▄▄ ▄▄▄▄▄ ▄▄     ▄▄▄▄  ▄▄▄  ▄▄   ▄▄ ▄▄▄▄▄ 
-██ ▄ ██ ██▄▄  ██    ██▀▀▀ ██▀██ ██▀▄▀██ ██▄▄  
- ▀█▀█▀  ██▄▄▄ ██▄▄▄ ▀████ ▀███▀ ██   ██ ██▄▄▄ 
+<img width="320" height="100" alt="ascii-art-text" src="https://github.com/user-attachments/assets/3ceb4f51-14a5-4baa-88b9-15c4b664b34c" />
+
                                               
 ---
 
