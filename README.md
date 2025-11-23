@@ -1,10 +1,10 @@
-<h2 align="center">👋 Hi there, I'm Ashwath</h2>
-
-<p align="center">
-<strong>Full-stack developer diving into AI/ML, DevOps, and building clean, fast web experiences.<br>
-Locked in. Ready to build cool stuff.</strong>
-</p>
-
+     ___           _______. __    __      _______   ______  __    __    ______   
+    /   \         /       ||  |  |  |    |   ____| /      ||  |  |  |  /  __  \  
+   /  ^  \       |   (----`|  |__|  |    |  |__   |  ,----'|  |__|  | |  |  |  | 
+  /  /_\  \       \   \    |   __   |    |   __|  |  |     |   __   | |  |  |  | 
+ /  _____  \  .----)   |   |  |  |  |    |  |____ |  `----.|  |  |  | |  `--'  | 
+/__/     \__\ |_______/    |__|  |__|    |_______| \______||__|  |__|  \______/  
+                                                                                 
 ---
 
 ### 💡 About Me
