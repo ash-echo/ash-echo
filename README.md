@@ -1,61 +1,53 @@
-<h1 align="center">Yo, I'm Ashwath 👾</h1>
-<p align="center">Locked in. Building cool stuff across web, AI, cloud & games.</p>
+<h2 align="center">👋 Hi there, I'm Ashwath</h2>
 
----
-
-### 🚀 What I'm On Right Now
-- Full-stack development (frontend + backend + deployment)
-- Exploring AI/ML for real-world apps
-- Getting hands-on with DevOps workflows & cloud infra
-- Designing sleek UI/UX & making content on tech + edits
-- Cooking mini game dev experiments on the side
-
----
-
-### 🧰 Tech Stack & Tools
-
-#### **Languages & Frameworks**
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css,react,nodejs,express,aws,linux,mysql,postgres,flask,docker,kubernetes" />
-</p>
-
-#### **Design + Other Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=figma,pr,ae,ps,unity" />
+<p align="center">
+<strong>Full-stack developer diving into AI/ML, DevOps, and building clean, fast web experiences.<br>
+Locked in. Ready to build cool stuff.</strong>
 </p>
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=ash-echo&theme=tokyonight&hide_border=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-echo&layout=compact&theme=tokyonight&hide_border=true)
+### 💡 About Me
 
-</div>
+- Working on full-stack apps & cloud deployment  
+- Exploring AI/ML + small game dev experiments  
+- Designing slick UI/UX + making edits/content  
+- Always shipping and experimenting  
 
 ---
 
-### 🌐 Links
+### ⚙️ Languages & Tools
 
-- **Portfolio:** https://ashwathp-portfolio.vercel.app/
-- **YouTube (AshEcho):** https://youtube.com/@ashecho
-- **LinkedIn:** https://www.linkedin.com/in/ashwath-p-devloper/
-
----
-
-### 📬 Contact Me
-
-Wanna collaborate or work on a project?
-
-- **Email:** ashwatha009@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/ashwath-p-devloper/  
-- **GitHub:** https://github.com/ash-echo
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nodejs,linux,aws,flask,docker" />
+<br>
+<img src="https://skillicons.dev/icons?i=figma,pr,ae,unity" />
+</p>
 
 ---
 
-### ⚡ Fun Zone
-> Coding + editing + shipping projects → repeat.  
-> If it breaks, I didn't write it. If it works, it was intentional.
+### 📊 GitHub Insights
 
+<p align="center">
+
+<img height="160" src="https://streak-stats.demolab.com?user=ash-echo&theme=tokyonight&hide_border=true" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-echo&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+### 🔗 Links
+
+- 🌐 Portfolio → https://ashwathp-portfolio.vercel.app  
+- 🎮 YouTube → https://youtube.com/@ashecho  
+- 💼 LinkedIn → https://www.linkedin.com/in/ashwath-p-devloper/  
+- 🐙 GitHub → https://github.com/ash-echo  
+
+---
+
+<p align="center">
+Thanks for stopping by ⚡<br>
+Always learning. Always building.
+</p>
