@@ -1,7 +1,9 @@
-                                              
-<img width="320" height="100" alt="ascii-art-text" src="https://github.com/user-attachments/assets/3ceb4f51-14a5-4baa-88b9-15c4b664b34c" />
+<h2 align="center">👋 Hi there, I'm Ashwath</h2>
 
-                                              
+<p align="center">
+<strong>Full-stack developer diving into AI/ML, DevOps, and building clean, fast web experiences.<br>
+Locked in. Ready to build cool stuff.</strong>
+</p>
 ---
 
 ### 💡 About Me
