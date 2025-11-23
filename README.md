@@ -23,11 +23,6 @@ Locked in. Ready to build cool stuff.</strong>
 <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nodejs,flask,linux,aws,docker" />
 </p>
 
-##### **Editing & Creative**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=figma,pr,ae,unity" />
-</p>
-
 ---
 
 ### 📊 GitHub Insights
