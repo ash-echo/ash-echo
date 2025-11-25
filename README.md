@@ -5,6 +5,8 @@
 Locked in. Ready to build cool stuff.</strong>
 </p>
 
+![ezgif-35b1b98379f0a906](https://github.com/user-attachments/assets/6ffe6b13-8a80-47dd-aadf-9b5515089422)
+
 
 ### 💡 About Me
 
