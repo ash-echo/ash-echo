@@ -5,8 +5,9 @@
 <strong>Full-stack developer diving into AI/ML, DevOps, and building clean, fast web experiences.<br>
 Locked in. Ready to build cool stuff.</strong>
 </p>
+![Adobe Express - ggif](https://github.com/user-attachments/assets/fef50d0f-80dc-42b1-9b14-0313bca36ef6)
 
-![ezgif-35b1b98379f0a906](https://github.com/user-attachments/assets/6ffe6b13-8a80-47dd-aadf-9b5515089422)
+
 
 
 ### 💡 About Me
