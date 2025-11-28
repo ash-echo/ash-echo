@@ -26,35 +26,14 @@ Locked in. Ready to build cool stuff.</strong>
 
 ##### **Languages**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,mysql,mongodb" />
 </p>
 
-##### **Developer Tools**
+##### **Tools**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,githubactions" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,githubactions,nodejs,fastapi,streamlit,css,scss,linux,git,docker" />
 </p>
-
-##### **Frameworks & UI**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,streamlit,css,scss" />
-</p>
-
-##### **Cloud & DevOps**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,git,docker" />
 <img src="https://skillicons.dev/icons?i=vercel" />
-</p>
-<p align="left">
-Automation • CI/CD • Linux Servers • Free-tier Cloud Hosting
-</p>
-
-##### **Databases**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-<p align="left">
-CSV • Local DB • Structured Storage
-</p>
 
 ##### **AI / ML Integration**
 <p align="left">
