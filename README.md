@@ -26,8 +26,15 @@ Locked in. Ready to build cool stuff.</strong>
 
 ##### **Development**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nodejs,flask,linux,aws,docker" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nextjs,nodejs,flask,streamlit,html,css,tailwind,linux,aws,docker,git,github,vercel,vscode,postman" />
 </p>
+
+##### **Design & Editing**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,unity" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/affinitydesigner/affinitydesigner-original.svg" height="40" />
+</p>
+
 
 <!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
