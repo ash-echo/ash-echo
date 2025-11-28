@@ -24,9 +24,44 @@ Locked in. Ready to build cool stuff.</strong>
 
 ### ⚙️ Languages & Tools
 
-##### **Development**
+##### **Languages**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nextjs,nodejs,flask,streamlit,html,css,tailwind,linux,aws,docker,git,github,vercel,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts" />
+</p>
+
+##### **Developer Tools**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,githubactions" />
+</p>
+
+##### **Frameworks & UI**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,streamlit,css,scss" />
+</p>
+
+##### **Cloud & DevOps**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,git,docker" />
+<img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+<p align="left">
+Automation • CI/CD • Linux Servers • Free-tier Cloud Hosting
+</p>
+
+##### **Databases**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+<p align="left">
+CSV • Local DB • Structured Storage
+</p>
+
+##### **AI / ML Integration**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+<p align="left">
+LLM APIs • GenAI Workflows • OCR Pipelines
 </p>
 
 ##### **Design & Editing**
