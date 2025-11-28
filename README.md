@@ -183,6 +183,7 @@ Locked in. Ready to build cool stuff.</strong>
 
 <!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
+
 ## 🔮 Cool Random Stuff
 
 <div align="center">
@@ -215,11 +216,9 @@ Always learning. Always building.
   <img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png" alt="works" />
 </div>
 
-<br>
-
-**[⬆ back to top](#)**
-
-</div>
+<p align="center">
+  <a href="#top" style="font-weight:600; color:#00eaff;">⬆ Back to Top</a>
+</p>
 
 
 
