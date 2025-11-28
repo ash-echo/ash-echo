@@ -22,7 +22,7 @@ Locked in. Ready to build cool stuff.</strong>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Language and Tools
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Language & Tools
 
 <table align="center">
 <tr>
@@ -151,6 +151,12 @@ Locked in. Ready to build cool stuff.</strong>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzdineshx&bg_color=1c1917&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
   </a>
   <br><br>
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ash-echo&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 
 <div align="center">
