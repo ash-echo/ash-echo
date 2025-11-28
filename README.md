@@ -187,11 +187,14 @@ Locked in. Ready to build cool stuff.</strong>
 ### 🎧 What I'm Vibing To
 
 <details>
+<summary>🎵 What I'm vibing to</summary>
 <br>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31u3veh3cq2qfki43cmnhkf4ecvi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://open.spotify.com/user/31u3veh3cq2qfki43cmnhkf4ecvi)
-
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31u3veh3cq2qfki43cmnhkf4ecvi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31u3veh3cq2qfki43cmnhkf4ecvi&redirect=true)
+  
 </details>
+
+
 
 
 </div>
