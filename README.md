@@ -1,6 +1,5 @@
-<p align="center">
-  <h1>👋 Hello I am Ashwath</h1>
-</p>
+<h2 align="center">👋 Hi there, I'm Ashwath</h2>
+
 
 <p align="center">
 <strong>Full-stack developer diving into AI/ML, DevOps, and building clean, fast web experiences.<br>
