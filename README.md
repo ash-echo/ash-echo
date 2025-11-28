@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Ashwath👋 </h2>
+# Hello, I'm Ashwath👋
 
 <p align="center">
 <strong>Full-stack developer diving into AI/ML, DevOps, and building clean, fast web experiences.<br>
