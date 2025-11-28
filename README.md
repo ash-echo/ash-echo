@@ -46,7 +46,6 @@ LLM APIs • GenAI Workflows • OCR Pipelines
 ##### **Design & Editing**
 <p align="left">
 <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,unity" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/affinitydesigner/affinitydesigner-original.svg" height="40" />
 </p>
 
 
