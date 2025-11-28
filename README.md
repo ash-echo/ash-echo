@@ -1,4 +1,6 @@
-                                    # Hello, I'm Ashwath👋
+<p align="center">
+  <h1>👋 Hello I am Ashwath</h1>
+</p>
 
 <p align="center">
 <strong>Full-stack developer diving into AI/ML, DevOps, and building clean, fast web experiences.<br>
