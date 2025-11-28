@@ -31,7 +31,7 @@ Locked in. Ready to build cool stuff.</strong>
 
 ##### **Tools**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,githubactions,nodejs,fastapi,streamlit,css,scss,linux,git,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,githubactions,nodejs,fastapi,css,scss,linux,git,docker" />
 </p>
 <img src="https://skillicons.dev/icons?i=vercel" />
 
