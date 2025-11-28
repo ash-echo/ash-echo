@@ -72,8 +72,9 @@ LLM APIs • GenAI Workflows • OCR Pipelines
   <br><br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ash-echo&theme=gruvbox&no-frame=true&row=1" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/images/github-profile-trophy.png" />
 </div>
+
 
 
 
