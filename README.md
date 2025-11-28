@@ -159,6 +159,13 @@ Locked in. Ready to build cool stuff.</strong>
 </div>
 
 
+
+
+<!-- Section Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
+
+### 🏆 ACHIEVEMENTS
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?refresh=1" />
@@ -170,9 +177,27 @@ Locked in. Ready to build cool stuff.</strong>
 <!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
-
 ### 🔗 Links
 <p align="center"> <a href="https://ashwathp-portfolio.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://youtube.com/@ashecho" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ashwath-p-devloper/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/ash-echo" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+
+## 🔮 Cool Random Stuff
+
+<div align="center">
+
+### 🎧 What I'm Vibing To
+
+<a href="https://open.spotify.com/user/31u3veh3cq2qfki43cmnhkf4ecvi" target="_blank">
+  <img 
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u3veh3cq2qfki43cmnhkf4ecvi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0d0d&interchange=false&bar_color=00eaff&bar_color_cover=true" 
+    alt="Spotify Now Playing" 
+    style="border-radius: 20px; box-shadow: 0 0 25px #00eaffaa;"
+  />
+</a>
+
+</div>
+
+<!-- Section Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 
 <p align="center">
@@ -182,3 +207,13 @@ Always learning. Always building.
 <div align="center">
   <img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png" alt="works" />
 </div>
+
+
+<br>
+<br>
+
+**[⬆ back to top](#)**
+
+</div>
+
+
