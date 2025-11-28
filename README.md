@@ -153,12 +153,12 @@ Locked in. Ready to build cool stuff.</strong>
   <br><br>
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ash-echo&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?refresh=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?refresh=1" />
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?refresh=1" />
+  </picture>
 </div>
-
-
 
 
 <!-- Section Divider -->
@@ -167,12 +167,12 @@ Locked in. Ready to build cool stuff.</strong>
 ### 🏆 ACHIEVEMENTS
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?refresh=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?refresh=1" />
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?refresh=1" />
-  </picture>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ash-echo&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
+
+
 
 <!-- Section Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
