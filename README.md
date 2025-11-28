@@ -71,10 +71,12 @@ LLM APIs • GenAI Workflows • OCR Pipelines
   </a>
   <br><br>
 
-<br><br>
+<div align="center">
+  <br><br>
   <!-- GitHub Trophy with gruvbox theme -->
   <img src="https://github-profile-trophy.vercel.app/?username=ash-echo&theme=gruvbox&no-frame=true&row=1" alt="GitHub Trophy" />
 </div>
+
 
 
 <div align="center">
