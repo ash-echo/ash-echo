@@ -71,13 +71,6 @@ LLM APIs • GenAI Workflows • OCR Pipelines
   </a>
   <br><br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/images/github-profile-trophy.png" />
-</div>
-
-
-
-
 
 <div align="center">
   <picture>
