@@ -18,7 +18,9 @@ Locked in. Ready to build cool stuff.</strong>
 - Designing slick UI/UX + making edits/content  
 - Always shipping and experimenting  
 
----
+<!-- Section Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
+
 
 ### ⚙️ Languages & Tools
 
@@ -27,7 +29,9 @@ Locked in. Ready to build cool stuff.</strong>
 <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nodejs,flask,linux,aws,docker" />
 </p>
 
----
+<!-- Section Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
+
 
 ### 📊 GitHub Insights
 
@@ -40,10 +44,15 @@ Locked in. Ready to build cool stuff.</strong>
 
 </p>
 
----
+<!-- Section Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
+
 
 ### 🔗 Links
 <p align="center"> <a href="https://ashwathp-portfolio.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://youtube.com/@ashecho" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ashwath-p-devloper/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/ash-echo" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+
+<!-- Section Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 
 <p align="center">
