@@ -186,13 +186,13 @@ Locked in. Ready to build cool stuff.</strong>
 
 ### 🎧 What I'm Vibing To
 
-<a href="https://open.spotify.com/user/31u3veh3cq2qfki43cmnhkf4ecvi" target="_blank">
-  <img 
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u3veh3cq2qfki43cmnhkf4ecvi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0d0d&interchange=false&bar_color=00eaff&bar_color_cover=true" 
-    alt="Spotify Now Playing" 
-    style="border-radius: 20px; box-shadow: 0 0 25px #00eaffaa;"
-  />
-</a>
+<details>
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31u3veh3cq2qfki43cmnhkf4ecvi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://open.spotify.com/user/31u3veh3cq2qfki43cmnhkf4ecvi)
+
+</details>
+
 
 </div>
 
@@ -208,12 +208,11 @@ Always learning. Always building.
   <img src="https://github.com/BEPb/BEPb/blob/main/src/header_.png" alt="works" />
 </div>
 
-
-<br>
 <br>
 
 **[⬆ back to top](#)**
 
 </div>
+
 
 
