@@ -64,15 +64,18 @@ LLM APIs • GenAI Workflows • OCR Pipelines
 
 </p>
 
-<!-- Section Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
+<br>
+<div align="center">
+  <a href="https://github.com/ash-echo">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzdineshx&bg_color=1c1917&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </a>
+  <br><br>
 
+<br><br>
+  <!-- GitHub Trophy with gruvbox theme -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ash-echo&theme=gruvbox&no-frame=true&row=1" alt="GitHub Trophy" />
+</div>
 
-### 🔗 Links
-<p align="center"> <a href="https://ashwathp-portfolio.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://youtube.com/@ashecho" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ashwath-p-devloper/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/ash-echo" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-
-<!-- Section Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
 
 <div align="center">
   <picture>
@@ -81,6 +84,13 @@ LLM APIs • GenAI Workflows • OCR Pipelines
     <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?refresh=1" />
   </picture>
 </div>
+
+<!-- Section Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="cool animation gif"/>
+
+
+### 🔗 Links
+<p align="center"> <a href="https://ashwathp-portfolio.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://youtube.com/@ashecho" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ashwath-p-devloper/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/ash-echo" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
 
 <p align="center">
