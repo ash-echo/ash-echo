@@ -140,9 +140,6 @@ Locked in. Ready to build cool stuff.</strong>
 
 <img height="160" src="https://streak-stats.vercel.app/?user=ash-echo&theme=tokyonight&hide_border=true" />
 
-
-<img height="160" src="https://github-readme-stats.heroku.app/api/top-langs/?username=ash-echo&layout=compact&theme=tokyonight&hide_border=true" />
-
 </p>
 
 <br>
